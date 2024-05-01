@@ -1,0 +1,1 @@
+print("Hello this file contains lesson learnt from the lecture 2")
